@@ -1,5 +1,4 @@
 # Uncovering-the-Hidden-Treasures-of-the-Mushroom-Kingdom-A-Classification-Analysis
-# **Uncovering the Hidden Treasures of the Mushroom Kingdom: A Classification Analysis**
 
 ## **Project Description**
 - This project focuses on the classification of different types of mushrooms found in various regions of the world. The classification is based on images of mushrooms, and the goal is to use deep learning techniques for accurate species recognition.
